@@ -3,7 +3,7 @@
 
 <!-- Cool Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Code+is+not+just+syntax,+it's+a+canvas+for+creativity;Innovation+distinguishes+leaders+from+followers;Building+scalable+systems,+one+line+at+a+time;Think+big,+code+bold,+create+impact" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Code+is+not+just+syntax;Innovation+distinguishes+leaders+from+followers;Building+scalable+systems,+one+line+at+a+time;Think+big,+code+bold,+create+impact" alt="Typing Animation" />
 </p>
 
 ---
