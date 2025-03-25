@@ -3,7 +3,7 @@
 
 <!-- Cool Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Backend+Developer+%7C+Tech+Explorer;Solving+Real-World+Problems;Passionate+Coder+%7C+Continuous+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Code+is+not+just+syntax,+it's+a+canvas+for+creativity;Innovation+distinguishes+leaders+from+followers;Building+scalable+systems,+one+line+at+a+time;Think+big,+code+bold,+create+impact" alt="Typing Animation" />
 </p>
 
 ---
@@ -39,11 +39,13 @@ Passionate developer exploring the intersections of backend development, algorit
 ---
 
 ## 🌐 Languages & Tools  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+</p>
 
 ---
 
@@ -61,11 +63,4 @@ Passionate developer exploring the intersections of backend development, algorit
 </p>
 
 ---
-
-## 🌟 Collaboration Invitation  
-*"Innovation happens when curious minds connect. Let's build something extraordinary together!"*  
-
-📌 **Profile Views:**  
-![Profile Views](https://komarev.com/ghpvc/?username=SourojitBanerjee&color=blue)  
-
-**"Code is not just syntax, it's a canvas for creativity."** 🚀  
+<h3 align="center"><i>"The best way to predict the future is to invent it." – Alan Kay</i> 🚀</h3>
