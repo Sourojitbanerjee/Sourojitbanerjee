@@ -1,61 +1,44 @@
-# 🌟 Sourojit Banerjee | Tech Innovator & Problem Solver
+# 🚀 Sourojit Banerjee | Tech Visionary & Innovator
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=120&lines= Building+the+Future+One+Line+of+Code+at+a+Time+%F0%9F%92%BB;Technology+isn't+just+Tools+It's+a+Mindset+%F0%9F%A7%AD;From+Concept+to+Code+Shaping+Tomorrow+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Building+Technology+that+Matters+%F0%9F%94%A5;Pushing+Boundaries%2C+Breaking+Limits+%F0%9F%9A%80;Shaping+the+Future+One+Line+of+Code+at+a+Time+%F0%9F%92%AA" />
 </div>
 
----
+## 🌟 Who Am I?
+I'm a **developer, innovator, and problem solver** on a mission to create impactful solutions. Technology isn't just about writing code; it's about transforming ideas into reality and making a difference.
 
-## 🌍 Vision & Mission
-> **"Code is more than syntax; it's the bridge between ideas and reality."**
+## ⚡ Tech Stack & Skills
 
-I'm a **passionate developer & problem-solver** who believes that technology should be about **impact, not just implementation.** My goal?  
-🛠 **Engineer solutions that redefine the way we interact with technology.**  
-
----
-
-## 💡 Technical Expertise  
-
-### 🚀 **Tech Stack**
+### 🛠️ Core Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,python,git,github,vscode,figma,docker" />
 </p>
 
-### 🔹 **Key Competencies**
-- 🏆 **Languages:** C, C++, JavaScript, Python  
-- 🌐 **Web:** HTML5, CSS3, React.js  
-- ⚙️ **DevOps & Tools:** Git, GitHub, Docker, VS Code  
-- 🎨 **Design & UI:** Figma, UX/UI Principles  
-- 📈 **Problem-Solving & Algorithms:** Advanced DSA, Optimized Coding  
+### 🚀 Expertise
+- **Languages:** C, C++, JavaScript, Python
+- **Web Development:** React, HTML5, CSS3
+- **Tools & Platforms:** Git, GitHub, VS Code
+- **Design & UX:** Figma
+- **Development Approach:** Agile, Scalable Architectures
 
----
-
-## 📊 GitHub Performance Metrics  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SourojitBanerjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SourojitBanerjee&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SourojitBanerjee&theme=radical&no-frame=true&margin-w=5&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sourojitbanerjee&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SourojitBanerjee&theme=redical&bg_color=000000&color=00a8e8&line=ff6600&point=ffffff&hide_border=true" width="98%" />
-</p>
+## 🔥 Current Focus
+- **Backend Development & API Engineering**
+- **Advanced Data Structures & Algorithms**
+- **Cloud Computing & Scalable Systems**
+- **Machine Learning Basics**
 
----
-
-## 🔍 **Current Focus & Learning**
-- **Mastering Backend Development**
-- **Deep Diving into Advanced Data Structures**
-- **Exploring Cloud-Native & AI Integrations**
-- **Sharpening System Design Skills**
-
----
-
-## 📫 Let's Connect!  
+## 📬 Let's Connect!
 
 <p align="center">
   <a href="mailto:sourojitbanerjee819@gmail.com">
@@ -69,19 +52,13 @@ I'm a **passionate developer & problem-solver** who believes that technology sho
   </a>
 </p>
 
----
-
-## 🤝 Open for Opportunities  
-🔹 **Looking to work on high-impact projects?**  
-🔹 **Need a developer who thinks outside the box?**  
-🔹 **Interested in open-source collaboration?**  
-
-💡 **Let's connect & build something revolutionary together!**  
+## 🎯 Open for Collaborations & Opportunities
+If you're working on something exciting and want to build the future together, let's talk!
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SourojitBanerjee&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&color=blueviolet" alt="Profile Views" />
 </p>
 
-> **"The best way to predict the future is to build it. Let's build something amazing!"** 🚀
+**"Every line of code is a step toward innovation. Let’s make it count."**
