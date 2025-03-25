@@ -1,7 +1,7 @@
 # 🌟 Sourojit Banerjee | Tech Innovator & Problem Solver
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Building+the+Future+One+Line+of+Code+at+a+Time+%F0%9F%92%BB;Technology+isn't+just+Tools+It's+a+Mindset+%F0%9F%A7%AD;From+Concept+to+Code+Shaping+Tomorrow+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=120&lines= Building+the+Future+One+Line+of+Code+at+a+Time+%F0%9F%92%BB;Technology+isn't+just+Tools+It's+a+Mindset+%F0%9F%A7%AD;From+Concept+to+Code+Shaping+Tomorrow+%F0%9F%9A%80" />
 </div>
 
 ---
