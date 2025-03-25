@@ -1,58 +1,61 @@
 # 🌟 Sourojit Banerjee | Tech Innovator & Problem Solver
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Transforming+Ideas+into+Innovative+Solutions+%F0%9F%92%A1;Bridging+Technology+and+Human+Potential+%F0%9F%8C%89;Engineering+Tomorrow's+Possibilities+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Building+the+Future+One+Line+of+Code+at+a+Time+%F0%9F%92%BB;Technology+isn't+just+Tools+It's+a+Mindset+%F0%9F%A7%AD;From+Concept+to+Code+Shaping+Tomorrow+%F0%9F%9A%80" />
 </div>
 
+---
+
 ## 🌍 Vision & Mission
+> **"Code is more than syntax; it's the bridge between ideas and reality."**
 
-> "Technology is not just about coding; it's about creating meaningful solutions that transform lives and push the boundaries of what's possible."
+I'm a **passionate developer & problem-solver** who believes that technology should be about **impact, not just implementation.** My goal?  
+🛠 **Engineer solutions that redefine the way we interact with technology.**  
 
-### 🔬 Who I Am
-I'm a passionate developer and innovator driven by an insatiable curiosity to solve complex problems through technology. My journey is about more than writing code—it's about crafting solutions that make a real-world impact.
+---
 
-## 💡 Technical Expertise
+## 💡 Technical Expertise  
 
-### 🛠️ Core Technologies
+### 🚀 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,python,git,github,vscode,figma,docker" />
 </p>
 
-### 🚀 Key Competencies
-- **Languages:** C, C++, JavaScript, Python
-- **Web Technologies:** HTML5, CSS3, React
-- **Tools:** Git, GitHub, VS Code
-- **Design:** Figma
-- **Methodologies:** Agile, Test-Driven Development
+### 🔹 **Key Competencies**
+- 🏆 **Languages:** C, C++, JavaScript, Python  
+- 🌐 **Web:** HTML5, CSS3, React.js  
+- ⚙️ **DevOps & Tools:** Git, GitHub, Docker, VS Code  
+- 🎨 **Design & UI:** Figma, UX/UI Principles  
+- 📈 **Problem-Solving & Algorithms:** Advanced DSA, Optimized Coding  
 
-## 🌈 Development Philosophy
+---
 
-### Principles That Drive Me
-- **Innovative Thinking:** Always seeking novel approaches to challenges
-- **Continuous Learning:** Embracing new technologies and methodologies
-- **User-Centric Design:** Creating solutions that genuinely improve user experiences
-- **Open Source Contribution:** Believing in collaborative and transparent development
-
-## 📊 GitHub Performance Metrics
+## 📊 GitHub Performance Metrics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SourojitBanerjee&theme=nightowl&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SourojitBanerjee&theme=nightowl&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SourojitBanerjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SourojitBanerjee&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SourojitBanerjee&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SourojitBanerjee&theme=radical&no-frame=true&margin-w=5&column=7" />
 </p>
 
-## 🌐 Current Focus & Learning
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SourojitBanerjee&theme=redical&bg_color=000000&color=00a8e8&line=ff6600&point=ffffff&hide_border=true" width="98%" />
+</p>
 
-### 🔍 Deep Diving Into
-- Backend Development Architecture
-- Advanced Data Structures and Algorithms
-- Cloud Native Technologies
-- Machine Learning Fundamentals
+---
 
-## 📫 Let's Connect & Collaborate!
+## 🔍 **Current Focus & Learning**
+- **Mastering Backend Development**
+- **Deep Diving into Advanced Data Structures**
+- **Exploring Cloud-Native & AI Integrations**
+- **Sharpening System Design Skills**
+
+---
+
+## 📫 Let's Connect!  
 
 <p align="center">
   <a href="mailto:sourojitbanerjee819@gmail.com">
@@ -66,13 +69,14 @@ I'm a passionate developer and innovator driven by an insatiable curiosity to so
   </a>
 </p>
 
-## 🤝 Open for Opportunities
+---
 
-**I'm actively seeking challenging projects and roles where I can:**
-- Apply cutting-edge technologies
-- Solve real-world problems
-- Contribute to innovative teams
-- Continuously grow and learn
+## 🤝 Open for Opportunities  
+🔹 **Looking to work on high-impact projects?**  
+🔹 **Need a developer who thinks outside the box?**  
+🔹 **Interested in open-source collaboration?**  
+
+💡 **Let's connect & build something revolutionary together!**  
 
 ---
 
@@ -80,4 +84,4 @@ I'm a passionate developer and innovator driven by an insatiable curiosity to so
   <img src="https://komarev.com/ghpvc/?username=SourojitBanerjee&color=blueviolet" alt="Profile Views" />
 </p>
 
-**"Code is poetry in motion, and every commit is a verse in the story of innovation."**
+> **"The best way to predict the future is to build it. Let's build something amazing!"** 🚀
