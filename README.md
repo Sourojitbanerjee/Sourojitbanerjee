@@ -1,64 +1,58 @@
-# 🚀 Sourojit Banerjee | Tech Visionary & Innovator
+<h1 align="center">Hey, I'm Sourojit Banerjee 👋</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%">
+</p>
+
+---
+
+### 🚀 Redefining Coding with Logic & Creativity  
+> "Every line of code is a step toward innovation. Let's make it count."
+
+💡 Passionate about Backend Development, APIs & Scalable Systems  
+⚡ Learning Data Structures & Algorithms (DSA)  
+🎯 Exploring Cloud Computing & AI Basics  
+🎨 Design + Code = Aesthetically Functional Systems  
+
+---
+
+### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00A8E8&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Building+Technology+that+Matters+%F0%9F%94%A5;Pushing+Boundaries%2C+Breaking+Limits+%F0%9F%9A%80;Shaping+the+Future+One+Line+of+Code+at+a+Time+%F0%9F%92%AA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=radical" width="50%"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=sourojitbanerjee&theme=radical&hide_border=true" width="50%"/>
 </div>
 
-## 🌟 Who Am I?
-I'm a **developer, innovator, and problem solver** on a mission to create impactful solutions. Technology isn't just about writing code; it's about transforming ideas into reality and making a difference.
+---
 
-## ⚡ Tech Stack & Skills
-
-### 🛠️ Core Technologies
+### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,python,git,github,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,figma" />
 </p>
 
-### 🚀 Expertise
-- **Languages:** C, C++, JavaScript, Python
-- **Web Development:** React, HTML5, CSS3
-- **Tools & Platforms:** Git, GitHub, VS Code
-- **Design & UX:** Figma
-- **Development Approach:** Agile, Scalable Architectures
+---
 
-## 📊 GitHub Stats
+### 🔥 Current Focus  
+- Backend Development & API Engineering  
+- Data Structures & Algorithms  
+- Cloud Computing & Scalable Systems  
+- Machine Learning Basics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=radical&hide_border=true" width="48%" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourojitbanerjee&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+### 📬 Let's Connect!  
+[![Email](https://img.shields.io/badge/Email-sourojitbanerjee@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sourojitbanerjee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SourojitBanerjee-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sourojitbanerjee)
+[![Twitter](https://img.shields.io/badge/Twitter-SourojitBanerj2-blue?style=for-the-badge&logo=twitter)](https://twitter.com/sourojitbanerj2)
+[![GitHub](https://img.shields.io/badge/GitHub-SourojitBanerjee-black?style=for-the-badge&logo=github)](https://github.com/sourojitbanerjee)
 
-## 🔥 Current Focus
-- **Backend Development & API Engineering**
-- **Advanced Data Structures & Algorithms**
-- **Cloud Computing & Scalable Systems**
-- **Machine Learning Basics**
+---
 
-## 📬 Let's Connect!
-
-<p align="center">
-  <a href="mailto:sourojitbanerjee819@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-sourojitbanerjee819@gmail.com-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/sourojit-banerjee-50458525a">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sourojit%20Banerjee-informational?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/sourojitbanerj2">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@sourojitbanerj2-blue?style=for-the-badge&logo=twitter" />
-  </a>
-</p>
-
-## 🎯 Open for Collaborations & Opportunities
-If you're working on something exciting and want to build the future together, let's talk!
+### 🤝 Open for Collaborations & Opportunities  
+If you're working on something exciting and want to build the future together, let's connect and create something incredible! 🚀  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&color=blueviolet" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
-**"Every line of code is a step toward innovation. Let’s make it count."**
