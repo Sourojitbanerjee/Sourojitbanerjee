@@ -1,96 +1,84 @@
 <!-- Typing animation intro -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&height=100&lines=Sourojit+Banerjee;Frontend+Developer+%26+Open+Source+Contributor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&random=false&width=600&height=70&lines=Be+Great.+Be+Awesome.;Code+with+Purpose+%F0%9F%9A%80;Backend+Dev+%7C+Open+Source+%7C+Cloud+Learner" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=sourojit-banerjee&style=flat-square&color=61DAFB)
-  
+  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&style=flat-square&color=00FFC6" alt="Profile views" />
 </div>
 
-## About Me
+---
 
-Frontend developer with strong DSA foundations, passionate about open source contributions and building scalable web applications.
+## 👨‍💻 About Me
 
-## Current Focus
+A backend-focused developer exploring the world of logic, systems, and scalable code. I love building things that work and learning from every line I write.
 
-- 🔍 Advancing my frontend development skills with modern frameworks
-- 📊 Strengthening data structures and algorithms expertise
-- 🌐 Contributing to open source projects
-- 📚 Learning blockchain technology and cloud computing
+---
 
-## Technologies & Tools
+## 🎯 Current Focus
 
+- ✍️ Learning DSA & problem solving
+- 🔧 Building backend systems using C++, Python
+- 📦 Exploring APIs, databases, and cloud basics
+- 🤝 Contributing to open-source projects
+
+---
+
+## ⚙️ Technologies I Use
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</div>
-
-## Open Source Contributions
-
-```typescript
-// Currently contributing to:
-const openSourceProjects = [
-  'community-driven-frontend-libraries',
-  'blockchain-education-resources',
-  'dsa-visualization-tools'
-];
-```
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourojit-banerjee&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojit-banerjee&layout=compact&langs_count=8&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sourojit-banerjee&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
-## Professional Goals
+---
 
-```javascript
+## 🚀 Goals
+```js
 const goals = {
   shortTerm: [
-    'Master frontend frameworks and state management',
-    'Build portfolio of interactive web applications',
-    'Contribute to major open source projects'
+    'Learn Tailwind CSS properly',
+    'Crack a dev internship',
+    'Be consistent on GitHub'
   ],
   longTerm: [
-    'Develop expertise in blockchain development',
-    'Create cloud-native applications',
-    'Build solutions that scale to millions of users'
+    'Contribute to major OSS projects',
+    'Master backend systems',
+    'Grow as a dev & inspire others'
   ]
 };
 ```
 
-## Connect With Me
+---
 
+## 📫 Connect with Me
 <div align="center">
-  <a href="mailto:contact@sourojit.dev">
+  <a href="mailto:sourojitbanerjee159@gmail.com">
     <img src="https://img.shields.io/badge/-Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sourojit-banerjee">
+  <a href="https://www.linkedin.com/in/sourojit-banerjee-50458525a/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
   </a>
-  <a href="https://twitter.com/sourojitban">
+  <a href="https://twitter.com/sourojitbanerj2">
     <img src="https://img.shields.io/badge/-Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
   </a>
 </div>
@@ -98,5 +86,5 @@ const goals = {
 <br />
 
 <div align="center">
-  <sub>Committed to continuous learning and improvement</sub>
+  <sub>"Just build. Stay consistent. Greatness comes."</sub>
 </div>
