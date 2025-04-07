@@ -1,90 +1,102 @@
 <!-- Typing animation intro -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&random=false&width=600&height=70&lines=Be+Great.+Be+Awesome.;Code+with+Purpose+%F0%9F%9A%80;Backend+Dev+%7C+Open+Source+%7C+Cloud+Learner" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+I'm+Sourojit+Banerjee!;Frontend+Dev+%7C+Open+Source+Enthusiast;Learning+Code,+Building+Dreams" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&style=flat-square&color=00FFC6" alt="Profile views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&style=flat-square&color=61DAFB" alt="Profile Views"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🙋‍♂️ About Me
 
-A backend-focused developer exploring the world of logic, systems, and scalable code. I love building things that work and learning from every line I write.
-
----
-
-## 🎯 Current Focus
-
-- ✍️ Learning DSA & problem solving
-- 🔧 Building backend systems using C++, Python
-- 📦 Exploring APIs, databases, and cloud basics
-- 🤝 Contributing to open-source projects
+- 🌱 First-year CS student, leveling up every day
+- 💻 Frontend developer with a backend crush
+- 🛠 Focused on React, Tailwind CSS, and open source
+- 🎯 Grinding DSA for that one golden opportunity
 
 ---
 
-## ⚙️ Technologies I Use
-<div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
+### ⚡ Current Focus
+
+```js
+const currentFocus = [
+  "Mastering React + Tailwind",
+  "Contributing to open source",
+  "Building strong DSA skills",
+  "Exploring Web3 and cloud tools"
+];
+```
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+### 🔧 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=tokyonight&hide_border=true" width="60%" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,cpp,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Goals
+### 🌍 Open Source Contributions
+
+```ts
+// Things I’m contributing to:
+const projects = [
+  "frontend-dev-libraries",
+  "dsa-helper-tools",
+  "web3-resources"
+];
+```
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=sourojitbanerjee&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🎯 Goals
+
 ```js
 const goals = {
   shortTerm: [
-    'Learn Tailwind CSS properly',
-    'Crack a dev internship',
-    'Be consistent on GitHub'
+    "Land my first coding internship",
+    "Ship 3 real-world projects",
+    "Crack basic open source issues"
   ],
   longTerm: [
-    'Contribute to major OSS projects',
-    'Master backend systems',
-    'Grow as a dev & inspire others'
+    "Be consistent on GitHub",
+    "Build scalable products",
+    "Be internship-ready by semester break"
   ]
 };
 ```
 
 ---
 
-## 📫 Connect with Me
-<div align="center">
+### 📫 Connect With Me
+
+<p align="center">
   <a href="mailto:sourojitbanerjee159@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sourojit-banerjee-50458525a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/sourojitbanerj2">
-    <img src="https://img.shields.io/badge/-Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
   </a>
-</div>
+</p>
 
-<br />
+---
 
-<div align="center">
-  <sub>"Just build. Stay consistent. Greatness comes."</sub>
-</div>
+<p align="center">
+  <i>"Be great. Be awesome. Start now."</i> 🚀
+</p>
