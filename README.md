@@ -1,102 +1,66 @@
 <!-- Typing animation intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+I'm+Sourojit+Banerjee!;Frontend+Dev+%7C+Open+Source+Enthusiast;Learning+Code,+Building+Dreams" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&style=flat-square&color=61DAFB" alt="Profile Views"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&height=100&lines=Sourojit+Banerjee;Frontend+Dev+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
-
-- 🌱 First-year CS student, leveling up every day
-- 💻 Frontend developer with a backend crush
-- 🛠 Focused on React, Tailwind CSS, and open source
-- 🎯 Grinding DSA for that one golden opportunity
+<h2 align="center">🚀 Be Great. Be Awesome. Build. 🚀</h2>
 
 ---
 
-### ⚡ Current Focus
+### 🔎 About Me
+I'm a passionate frontend developer based in West Bengal, hustling hard to blend logic with aesthetics. From struggling with setups to pushing pixels, I'm here to leave a mark in code.
 
-```js
-const currentFocus = [
-  "Mastering React + Tailwind",
-  "Contributing to open source",
-  "Building strong DSA skills",
-  "Exploring Web3 and cloud tools"
-];
-```
+- 🔍 Currently diving deep into **React**, **Tailwind CSS**, and **Next.js**
+- ✨ Learning **DSA**, **Cloud** & **Blockchain Basics**
+- 🚀 Actively contributing to open-source and real-world projects
 
 ---
 
 ### 🔧 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,cpp,git,github,vscode,figma,docker,aws" />
 </p>
 
 ---
 
-### 🌍 Open Source Contributions
-
-```ts
-// Things I’m contributing to:
-const projects = [
-  "frontend-dev-libraries",
-  "dsa-helper-tools",
-  "web3-resources"
-];
-```
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=sourojitbanerjee&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🎯 Goals
-
+### 🚀 Current Goals
 ```js
-const goals = {
+const sourojitGoals = {
   shortTerm: [
-    "Land my first coding internship",
-    "Ship 3 real-world projects",
-    "Crack basic open source issues"
+    'Build more React + Tailwind projects',
+    'Level up in Leetcode & DSA',
+    'Get my first coding internship'
   ],
   longTerm: [
-    "Be consistent on GitHub",
-    "Build scalable products",
-    "Be internship-ready by semester break"
+    'Contribute to major open source orgs',
+    'Become a frontend + cloud wizard',
+    'Build products that help people'
   ]
 };
 ```
 
 ---
 
-### 📫 Connect With Me
-
+### 📊 GitHub Stats
 <p align="center">
-  <a href="mailto:sourojitbanerjee159@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sourojit-banerjee-50458525a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/sourojitbanerj2">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=react&hide_border=true"/>
 </p>
 
 ---
 
+### 👤 Connect with Me
 <p align="center">
-  <i>"Be great. Be awesome. Start now."</i> 🚀
+  <a href="mailto:sourojitbanerjee159@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sourojit-banerjee-50458525a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/sourojitbanerj2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 </p>
+
+---
+
+<h3 align="center">🌟 Let's build things that matter. 🌟</h3>
