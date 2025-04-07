@@ -1,5 +1,6 @@
+<h1 align="center">Hey, I'm Sourojit Banerjee 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FFC3&center=true&vCenter=true&random=false&width=600&height=100&lines=Sourojit+Banerjee+—+hey!+👋;Frontend+Developer+%7C+Open+Source+Contributor;Learning+DSA%2C+Cloud+%26+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FFC3&center=true&vCenter=true&random=false&width=600&height=80&lines=Frontend+Developer+%7C+Open+Source+Contributor;Learning+DSA%2C+Cloud+%26+Blockchain" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -20,7 +21,7 @@ Open-source enthusiast 🌍 | Learner for life 🚀
 - ⚡ Frontend Development (HTML, CSS, JS, TailwindCSS)
 - 💡 Strengthening Data Structures & Algorithms
 - 🌱 Contributing to Open Source Projects
-- 📚 Learning Blockchain, API Dev & Cloud Computing
+- 🎯 Upcoming Goals Blockchain, API Dev & Cloud Computing
 
 ---
 
