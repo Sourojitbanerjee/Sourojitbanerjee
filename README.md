@@ -1,66 +1,62 @@
-<!-- Typing animation intro -->
+<h1 align="center">Hi, I'm Sourojit Banerjee 🚀</h1>
+<h3 align="center">Frontend Dev • DSA Enthusiast • Open Source Contributor</h3>
+
+<!-- Typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&height=100&lines=Sourojit+Banerjee;Frontend+Dev+%7C+Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&height=50&lines=Be+Curious.+Build+Cool+Stuff.;Break+It.+Fix+It.+Learn+From+It.;Frontend+Fueled+%7C+Cloud+Bound;" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Be Great. Be Awesome. Build. 🚀</h2>
+### 🧠 About Me
+
+I'm a **frontend developer** focused on building clean, responsive UIs with logic-driven code.  
+Currently deepening my knowledge in **Data Structures & Algorithms**, contributing to open source, and learning daily.
 
 ---
 
-### 🔎 About Me
-I'm a passionate frontend developer based in West Bengal, hustling hard to blend logic with aesthetics. From struggling with setups to pushing pixels, I'm here to leave a mark in code.
+### 🔥 Current Focus
 
-- 🔍 Currently diving deep into **React**, **Tailwind CSS**, and **Next.js**
-- ✨ Learning **DSA**, **Cloud** & **Blockchain Basics**
-- 🚀 Actively contributing to open-source and real-world projects
+- 🧩 JavaScript, TypeScript, React, TailwindCSS
+- 💡 DSA with C++ and Python
+- 🌍 Open Source Contribution
+- ☁️ Learning Cloud & Blockchain Fundamentals
 
 ---
 
-### 🔧 Tech Stack
+### 🚀 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,cpp,git,github,vscode,figma,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,cpp,python,git,github,vscode" />
 </p>
-
----
-
-### 🚀 Current Goals
-```js
-const sourojitGoals = {
-  shortTerm: [
-    'Build more React + Tailwind projects',
-    'Level up in Leetcode & DSA',
-    'Get my first coding internship'
-  ],
-  longTerm: [
-    'Contribute to major open source orgs',
-    'Become a frontend + cloud wizard',
-    'Build products that help people'
-  ]
-};
-```
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=sourojitbanerjee&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
 
-### 👤 Connect with Me
-<p align="center">
-  <a href="mailto:sourojitbanerjee159@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sourojit-banerjee-50458525a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/sourojitbanerj2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-</p>
+### 🌱 Learning Goals (2025 → 🔮)
 
----
-
-<h3 align="center">🌟 Let's build things that matter. 🌟</h3>
+```js
+const goals = {
+  shortTerm: [
+    "Master frontend frameworks (React, Next.js)",
+    "Practice DSA on LeetCode & Codeforces",
+    "Push 10+ quality contributions to open source"
+  ],
+  longTerm: [
+    "Build real-world scalable web apps",
+    "Explore Web3 & Cloud Engineering",
+    "Intern at a top-tier tech startup"
+  ]
+}
