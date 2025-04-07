@@ -1,6 +1,6 @@
 <!-- Typing animation intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FFC3&center=true&vCenter=true&random=false&width=600&height=100&lines=Sourojit+Banerjee;Frontend+Developer+%7C+Open+Source+Contributor;Learning+DSA%2C+Cloud+%26+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FFC3&center=true&vCenter=true&random=false&width=600&height=100&lines=Sourojit+Banerjee+—+hey!+👋;Frontend+Developer+%7C+Open+Source+Contributor;Learning+DSA%2C+Cloud+%26+Blockchain" alt="Typing SVG" />
 </p>
 
 <div align="center">
