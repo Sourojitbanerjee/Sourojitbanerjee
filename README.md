@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Sourojit Banerjee 👋</h1>
+<h1 align="center" style="color:#00CFFF;">Hey, I'm Sourojit Banerjee 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FFC3&center=true&vCenter=true&random=false&width=800&height=80&lines=Frontend+Developer+%7C+Open+Source+Contributor;Learning+DSA%2C+Cloud+%26+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&random=false&width=800&height=80&lines=Frontend+Developer+%7C+Open+Source+Contributor;Learning+DSA%2C+Cloud+%26+Blockchain" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&style=flat-square&color=00FFC3" />
+  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&style=flat-square&color=00CFFF" />
 </div>
 
 ---
@@ -22,14 +22,14 @@ Open-source enthusiast 🌍 | Learner for life 🚀
 - ⚡ Frontend Development (HTML, CSS, JS, TailwindCSS)
 - 💡 Strengthening Data Structures & Algorithms
 - 🌱 Contributing to Open Source Projects
-- 🎯 Upcoming Goals Blockchain, API Dev & Cloud Computing
+- 🎯 Upcoming Goals: Blockchain, API Dev & Cloud Computing
 
 ---
 
-## 🎯 Learning Roadmap (Animated)
+## 🎯 Learning Roadmap
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC3&width=600&lines=Mastering+HTML%2C+CSS%2C+JavaScript;Writing+clean+code+in+C%2C+C%2B%2B+%26+Java;Styling+UI+with+TailwindCSS;Building+projects+using+Git+%26+GitHub;Coding+daily+with+VS+Code" alt="Learning Goals Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&width=600&lines=Mastering+HTML%2C+CSS%2C+JavaScript;Writing+clean+code+in+C%2C+C%2B%2B+%26+Java;Styling+UI+with+TailwindCSS;Building+projects+using+Git+%26+GitHub;Coding+daily+with+VS+Code" alt="Learning Goals Typing Animation" />
 </p>
 
 ---
@@ -51,12 +51,12 @@ Open-source enthusiast 🌍 | Learner for life 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Live 🔥)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=sourojitbanerjee&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -65,18 +65,18 @@ Open-source enthusiast 🌍 | Learner for life 🚀
 
 <div align="center">
   <a href="mailto:sourojitbanerjee159@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-F5F5DC?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/sourojit-banerjee-50458525a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/souroman">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
   </a>
   <a href="https://twitter.com/sourojitbanerj2">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Twitter-0D1B2A?style=for-the-badge&logo=twitter&logoColor=FFD700" />
   </a>
 </div>
 
 ---
 
 <p align="center">
-  <b><i>“Be great. Be awesome. Never stop learning.”</i></b> 🚀
+  <b><i style="color:#00CFFF;">“Be great. Be awesome. Never stop learning.”</i></b> 🚀
 </p>
