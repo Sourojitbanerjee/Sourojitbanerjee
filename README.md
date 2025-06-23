@@ -133,12 +133,7 @@ const sourojit: SoftwareEngineer = {
 </div>
 
 <!-- Enhanced Section Dividers with Multiple Animations -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" />
-</div>
+<br>
 
 <!-- GitHub Activity Graph -->
 <h2 align="center">
@@ -147,19 +142,34 @@ const sourojit: SoftwareEngineer = {
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourojitbanerjee&custom_title=Contribution%20Graph&bg_color=0d1117&color=7c3aed&line=6366f1&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourojitbanerjee&custom_title=Contribution%20Graph&bg_color=0d1117&color=7c3aed&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
-<!-- Animated Stats Cards -->
+<br>
+
+<!-- GitHub Stats Cards - Fixed Layout -->
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=6366f1&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=radical&hide_border=true&background=0d1117&stroke=7c3aed&ring=6366f1&fire=ff6b6b&currStreakLabel=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=6366f1&text_color=ffffff&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=6366f1&text_color=ffffff&include_all_commits=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=radical&hide_border=true&background=0d1117&stroke=7c3aed&ring=6366f1&fire=ff6b6b&currStreakLabel=ffffff">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=radical&hide_border=true&background=0d1117&stroke=7c3aed&ring=6366f1&fire=ff6b6b&currStreakLabel=ffffff" />
+  </picture>
 </div>
 
-<!-- Language Stats -->
+<br>
+
+<!-- Language Stats - Separate section for better loading -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff" />
+  </picture>
 </div>
+
+<br>
 
 <!-- Animated Trophies -->
 <h2 align="center">
@@ -170,6 +180,8 @@ const sourojit: SoftwareEngineer = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sourojitbanerjee&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" />
 </div>
+
+<br>
 
 <!-- Current Focus Areas with Visual Elements -->
 <h2 align="center">
@@ -199,6 +211,8 @@ const sourojit: SoftwareEngineer = {
   </table>
 </div>
 
+<br>
+
 <!-- Professional Philosophy -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/l1J9FiGxR61OcF2mI/giphy.gif" width="35">
@@ -222,6 +236,8 @@ const sourojit: SoftwareEngineer = {
   </table>
 </div>
 
+<br>
+
 <!-- Professional Network -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
@@ -240,17 +256,17 @@ const sourojit: SoftwareEngineer = {
   </a>
 </div>
 
+<br>
+
 <!-- Animated Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
+<br>
+
 <!-- Animated Footer with Multiple Visual Elements -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100" />
-  
   <h3>💼 Open for collaboration on innovative projects</h3>
   <p><strong>Let's build the future of web development together</strong></p>
   
