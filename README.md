@@ -7,9 +7,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 </div>
 
-<!-- Interactive Profile Animation -->
+<!-- Animated Profile Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" />
+</div>
+
+<!-- Floating Animation Elements -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" />
 </div>
 
 <!-- Visitor Counter with Custom Design -->
@@ -42,7 +49,7 @@ const sourojit: SoftwareEngineer = {
   role: "Frontend Engineer & System Designer",
   location: "Kolkata, West Bengal, India 🇮🇳",
   codeStyle: ["Clean Architecture", "Functional Programming", "Design Patterns"],
-  architecture: ["Micro-frontends", "Component-Driven", "JAMstack", "Serverless"],
+  architecture: ["Component-Driven", "JAMstack", "Modern Web Apps"],
   currentMission: [
     "🚀 Mastering Advanced JavaScript Patterns",
     "⚡ Performance Engineering & Web Vitals",
@@ -53,11 +60,20 @@ const sourojit: SoftwareEngineer = {
 };
 ```
 
-<!-- Animated Technology Stack -->
+<!-- Animated Technology Stack with Enhanced Visuals -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
   Technology Arsenal
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="32">
 </h2>
+
+<!-- Animated Tech Icons Row -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" />
+</div>
 
 <div align="center">
   <table>
@@ -67,8 +83,8 @@ const sourojit: SoftwareEngineer = {
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65" />
+        <br>Web Dev
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" />
@@ -83,8 +99,8 @@ const sourojit: SoftwareEngineer = {
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass&theme=dark" width="65" height="65" />
-        <br>Sass
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65" />
+        <br>Algorithms
       </td>
     </tr>
     <tr>
@@ -116,8 +132,13 @@ const sourojit: SoftwareEngineer = {
   </table>
 </div>
 
-<!-- Animated Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Enhanced Section Dividers with Multiple Animations -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" />
+</div>
 
 <!-- GitHub Activity Graph -->
 <h2 align="center">
@@ -171,8 +192,8 @@ const sourojit: SoftwareEngineer = {
       </td>
       <td align="center" width="250">
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
-        <br><strong>Modern TypeScript</strong>
-        <br><sub>Type-safe application development</sub>
+        <br><strong>Modern JavaScript</strong>
+        <br><sub>ES6+ features & advanced patterns</sub>
       </td>
     </tr>
   </table>
@@ -224,12 +245,19 @@ const sourojit: SoftwareEngineer = {
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<!-- Footer with Call to Action -->
+<!-- Animated Footer with Multiple Visual Elements -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100" />
   
   <h3>💼 Open for collaboration on innovative projects</h3>
   <p><strong>Let's build the future of web development together</strong></p>
+  
+  <!-- Additional Animated Elements -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1b27,2d3748&height=150&section=footer" />
 </div>
