@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:F7931E,50:FFD23F,75:06FFA5,100:00D4FF&height=200&section=header&text=SOUROJIT%20BANERJEE&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:F7931E,50:FFD23F,75:06FFA5,100:00D4FF&height=200&section=header&text=SOUROJIT%20BANERJEE&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&stroke=000000&strokeWidth=3" />
 </div>
 
 <div align="center">
@@ -129,14 +129,27 @@ const me = new Developer();
 
 ---
 
-## 🚀 REPOSITORY_SHOWCASE
+## 💎 SPOTLIGHT_PROJECTS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourojitbanerjee&repo=awesome-project&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=FF6B35&text_color=FFFFFF&description_lines_count=3" alt="Pinned Repository" />
+  
+  <!-- Language Distribution -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sourojitbanerjee&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&layout=compact" alt="Coding Activity" />
+
+  <!-- Most Used Languages (Detailed) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourojitbanerjee&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  
+  <!-- Contribution Timeline -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sourojitbanerjee&theme=github_dark&hide_border=true&utcOffset=5.5" alt="Productive Time" />
+
 </div>
 
+### 🔥 QUICK_STATS
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sourojitbanerjee&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+  <img src="https://img.shields.io/badge/Total_Commits-1000+-00FF41?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lines_of_Code-50K+-FF6B35?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects_Built-25+-FFD700?style=for-the-badge&logo=rocket&logoColor=black" />
+  <img src="https://img.shields.io/badge/Coffee_Consumed-∞-00D4FF?style=for-the-badge&logo=coffee&logoColor=black" />
 </div>
 
 ---
