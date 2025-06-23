@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,25:2c5282,50:3182ce,75:63b3ed,100:1e3a5f&height=220&section=header&text=SOUROJIT%20BANERJEE&fontSize=48&fontColor=f7fafc&animation=fadeIn&fontAlignY=35&stroke=2d3748&strokeWidth=1&desc=Crafting%20Digital%20Excellence&descSize=18&descAlignY=55&font=Poppins" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1928,25:1e2a3a,50:1a365d,75:2563eb,100:0a1928&height=220&section=header&text=SOUROJIT%20BANERJEE&fontSize=48&fontColor=f7fafc&animation=fadeIn&fontAlignY=35&stroke=1e293b&strokeWidth=1&desc=Crafting%20Digital%20Excellence&descSize=18&descAlignY=55&font=Poppins" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=2b6cb0&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Frontend+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;Problem+Solver+%F0%9F%A7%A0;Code+Architect+%F0%9F%8F%97%EF%B8%8F;Innovation+Engineer+%E2%9A%A1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=1e40af&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Frontend+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;Problem+Solver+%F0%9F%A7%A0;Code+Architect+%F0%9F%8F%97%EF%B8%8F;Innovation+Engineer+%E2%9A%A1" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&style=for-the-badge&color=2b6cb0&labelColor=1a202c" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sourojitbanerjee?style=for-the-badge&color=3182ce&labelColor=1a202c" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-4299e1?style=for-the-badge&labelColor=1a202c" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building%20Tomorrow-63b3ed?style=for-the-badge&labelColor=1a202c" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=sourojitbanerjee&style=for-the-badge&color=1e40af&labelColor=0f172a" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sourojitbanerjee?style=for-the-badge&color=1d4ed8&labelColor=0f172a" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-2563eb?style=for-the-badge&labelColor=0f172a" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Building%20Tomorrow-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Status" />
 </div>
 
 ---
@@ -56,16 +56,16 @@ console.log(`🚀 Currently building the future, one commit at a time!`);
 ## 📊 GITHUB_METRICS & ANALYTICS
 
 <div align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=blue-white&include_all_commits=true&count_private=true&hide_border=true&bg_color=f7fafc&title_color=2b6cb0&icon_color=3182ce&text_color=2d3748&border_color=e2e8f0&custom_title=📈%20GitHub%20Performance"/>
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&langs_count=8&theme=blue-white&hide_border=true&bg_color=f7fafc&title_color=2b6cb0&text_color=2d3748&border_color=e2e8f0&custom_title=🔥%20Language%20Mastery"/>
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=sourojitbanerjee&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=1e40af&icon_color=1d4ed8&text_color=e2e8f0&border_color=1e293b&custom_title=📈%20GitHub%20Performance"/>
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourojitbanerjee&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0f172a&title_color=1e40af&text_color=e2e8f0&border_color=1e293b&custom_title=🔥%20Language%20Mastery"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=blue-white&hide_border=true&background=f7fafc&stroke=2b6cb0&ring=3182ce&fire=4299e1&currStreakLabel=2d3748&sideNums=2b6cb0&currStreakNum=3182ce&dates=4a5568&sideLabels=2d3748" alt="🔥 Coding Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourojitbanerjee&theme=dark&hide_border=true&background=0f172a&stroke=1e40af&ring=1d4ed8&fire=2563eb&currStreakLabel=e2e8f0&sideNums=1e40af&currStreakNum=1d4ed8&dates=94a3b8&sideLabels=e2e8f0" alt="🔥 Coding Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourojitbanerjee&custom_title=📊%20Contribution%20Timeline&hide_border=true&bg_color=f7fafc&color=2b6cb0&line=3182ce&point=4299e1&area=true&area_color=bee3f8" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourojitbanerjee&custom_title=📊%20Contribution%20Timeline&hide_border=true&bg_color=0f172a&color=1e40af&line=1d4ed8&point=2563eb&area=true&area_color=1e3a8a" alt="Activity Graph" />
 </div>
 
 ---
