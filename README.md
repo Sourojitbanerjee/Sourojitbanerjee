@@ -44,10 +44,10 @@ const sourojit: SoftwareEngineer = {
   codeStyle: ["Clean Architecture", "Functional Programming", "Design Patterns"],
   architecture: ["Micro-frontends", "Component-Driven", "JAMstack", "Serverless"],
   currentMission: [
-    "🚀 Mastering Advanced React Patterns",
+    "🚀 Mastering Advanced JavaScript Patterns",
     "⚡ Performance Engineering & Web Vitals",
-    "🏗️ Building Scalable Design Systems",
-    "🧠 Exploring AI-Powered Development Tools"
+    "🏗️ Building Scalable Frontend Systems",
+    "🧠 Exploring Modern Web Technologies"
   ],
   lifePhilosophy: "Code is poetry written in logic 🎭"
 };
@@ -71,20 +71,20 @@ const sourojit: SoftwareEngineer = {
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" />
+        <br>HTML5
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="65" height="65" />
-        <br>Next.js
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" width="65" height="65" />
+        <br>CSS3
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="65" height="65" />
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" height="65" />
-        <br>Node.js
+        <img src="https://skillicons.dev/icons?i=sass&theme=dark" width="65" height="65" />
+        <br>Sass
       </td>
     </tr>
     <tr>
@@ -109,8 +109,8 @@ const sourojit: SoftwareEngineer = {
         <br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="65" height="65" />
-        <br>Figma
+        <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="65" height="65" />
+        <br>Linux
       </td>
     </tr>
   </table>
@@ -161,8 +161,8 @@ const sourojit: SoftwareEngineer = {
     <tr>
       <td align="center" width="250">
         <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
-        <br><strong>Advanced React Architecture</strong>
-        <br><sub>Building scalable component systems</sub>
+        <br><strong>Advanced JavaScript Architecture</strong>
+        <br><sub>Building scalable application systems</sub>
       </td>
       <td align="center" width="250">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
