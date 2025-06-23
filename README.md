@@ -51,10 +51,10 @@ const sourojit: SoftwareEngineer = {
   codeStyle: ["Clean Architecture", "Functional Programming", "Design Patterns"],
   architecture: ["Component-Driven", "JAMstack", "Modern Web Apps"],
   currentMission: [
-    "🚀 Mastering Advanced JavaScript Patterns",
-    "⚡ Performance Engineering & Web Vitals",
-    "🏗️ Building Scalable Frontend Systems",
-    "🧠 Exploring Modern Web Technologies"
+    "☁️ Mastering Cloud Computing & Architecture",
+    "🧮 Deep Diving into Data Structures & Algorithms",
+    "🎨 Advanced Web Design & User Experience",
+    "🚀 Building Scalable Cloud Solutions"
   ],
   lifePhilosophy: "Code is poetry written in logic 🎭"
 };
@@ -182,18 +182,18 @@ const sourojit: SoftwareEngineer = {
     <tr>
       <td align="center" width="250">
         <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
-        <br><strong>Advanced JavaScript Architecture</strong>
-        <br><sub>Building scalable application systems</sub>
+        <br><strong>Cloud Computing</strong>
+        <br><sub>Building scalable cloud architectures</sub>
+      </td>
+      <td align="center" width="250">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+        <br><strong>Data Structures & Algorithms</strong>
+        <br><sub>Optimizing problem-solving techniques</sub>
       </td>
       <td align="center" width="250">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
-        <br><strong>Performance Engineering</strong>
-        <br><sub>Optimizing web vitals & user experience</sub>
-      </td>
-      <td align="center" width="250">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
-        <br><strong>Modern JavaScript</strong>
-        <br><sub>ES6+ features & advanced patterns</sub>
+        <br><strong>Web Design & UX</strong>
+        <br><sub>Creating beautiful user experiences</sub>
       </td>
     </tr>
   </table>
