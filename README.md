@@ -84,7 +84,7 @@ const sourojit: SoftwareEngineer = {
       </td>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65" />
-        <br>Web Dev
+        <br>Python
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" />
@@ -100,7 +100,7 @@ const sourojit: SoftwareEngineer = {
       </td>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65" />
-        <br>Algorithms
+        <br>node js
       </td>
     </tr>
     <tr>
